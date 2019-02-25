@@ -17,7 +17,7 @@ var bear = {
     commonNmae: "brown bear",
     callType: "roar",
     quote: "",
-    maxOffspring: 3,
+    maxOffspring: 4,
     noisy: "true",
     deadly: "true"
 
